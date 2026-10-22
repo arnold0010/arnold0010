@@ -1,22 +1,35 @@
 # Tushar Vijay Paidlewar
+
 **Finance | Credit Risk | Data Analytics**
 
 I'm interested in how financial data can help explain risk, evaluate businesses, and support better financial decisions.
 
-I'm pursuing an MBA in Finance and Data Science & AI at Woxsen University, Hyderabad. This profile is where I share projects at the intersection of finance, analytics, and technology.
+I'm pursuing an MBA in Finance & Data Science and AI at Woxsen University, Hyderabad. This profile is where I share projects exploring the intersection of finance, analytics, and technology.
 
 ## Areas of Interest
+
 - Credit Risk Modelling & Credit Scoring
 - Financial Statement Analysis & Valuation
 - Investment & Mutual Fund Analytics
 - Banking, Fintech & Financial Markets
 
-## Tools
-Python · SQL · Excel · Power BI
-
 ## Featured Project
+
 **[Credit Risk Scorecard](https://github.com/arnold0010/credit-risk-scorecard)**
-An end-to-end project covering borrower default prediction, credit scoring, model explainability, and risk-based lending decisions. *(Add: dataset, model, and key metric, e.g., AUC.)*
+
+An end-to-end credit risk modelling project exploring borrower default prediction, credit scoring, model explainability, and risk-based lending decisions.
+
+- **Dataset:** 150,000 borrowers
+- **Scorecard AUC:** 0.858
+- **XGBoost AUC:** 0.867
+- **Simulated bad-loan rate:** Reduced from 6.7% to 3.4% at the evaluated approval cutoff
+
+**Tools:** Python · XGBoost · SHAP · Streamlit
+
+## Background
+
+B.Tech in Electrical Engineering · Patent filing: EV Range Optimization System
 
 ## Connect
+
 [LinkedIn](https://www.linkedin.com/in/tusharpaidlewar) · [GitHub Repositories](https://github.com/arnold0010?tab=repositories)
