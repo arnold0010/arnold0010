@@ -8,22 +8,18 @@ I'm pursuing an MBA in Finance & Data Science and AI at Woxsen University, Hyder
 
 ---
 
-## Profile
+Profile
 
-<p align="center">
-  <img src="./avi-ascii.svg" alt="ASCII portrait of Tushar" width="300">
-</p>
-
-<p align="center">
-  <img src="./info-card.svg" alt="Animated profile information card" width="490">
-</p>
-
-## GitHub Contributions
-
-<p align="center">
-  <img src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" width="850">
-</p>
-
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="./avi-ascii.svg" alt="ASCII portrait of Tushar" width="280">
+    </td>
+    <td width="65%" align="center" valign="middle">
+      <img src="./info-card.svg" alt="Animated profile information card" width="100%">
+    </td>
+  </tr>
+</table>
 ---
 
 ## Areas of Interest
