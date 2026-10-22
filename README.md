@@ -1,32 +1,22 @@
-# Hi there 👋, I'm Tushar Vijay Paidlewar
+# Tushar Vijay Paidlewar
+**Finance | Credit Risk | Data Analytics**
 
-### MBA Finance & Data Science | Aspiring Credit Risk Analyst
+I'm interested in how financial data can help explain risk, evaluate businesses, and support better financial decisions.
 
-I'm an MBA student interested in **Finance, Credit Risk Analytics, Financial Markets, and Data-Driven Decision Making**. I enjoy exploring how data analytics and machine learning can solve real-world business and financial problems.
+I'm pursuing an MBA in Finance and Data Science & AI at Woxsen University, Hyderabad. This profile is where I share projects at the intersection of finance, analytics, and technology.
 
-- 🎓 MBA student specializing in Finance and Data Science & AI
-- 📊 Interested in Credit Risk Modelling, Financial Analysis, and Business Analytics
-- 💻 Currently learning Python, SQL, Excel, and Power BI
-- 📈 Working on projects related to credit risk assessment and financial analytics
-- 🎯 Goal: Build a career at the intersection of Finance, Analytics, and Technology
+## Areas of Interest
+- Credit Risk Modelling & Credit Scoring
+- Financial Statement Analysis & Valuation
+- Investment & Mutual Fund Analytics
+- Banking, Fintech & Financial Markets
 
-### 🛠️ Skills I'm Developing
+## Tools
+Python · SQL · Excel · Power BI
 
-- **Finance:** Credit Risk Analysis, Financial Statement Analysis, Equity Research
-- **Analytics:** Microsoft Excel, Data Analysis, Exploratory Data Analysis
-- **Programming:** Python, SQL
-- **Visualization:** Power BI
-
-### 🚀 Featured Project
-
+## Featured Project
 **[Credit Risk Scorecard](https://github.com/arnold0010/credit-risk-scorecard)**
+An end-to-end project covering borrower default prediction, credit scoring, model explainability, and risk-based lending decisions. *(Add: dataset, model, and key metric, e.g., AUC.)*
 
-An end-to-end credit risk project focused on estimating the probability of default and translating risk estimates into a credit score to support lending decisions.
-
-### 📫 Connect With Me
-
-- GitHub: [@arnold0010](https://github.com/arnold0010)
-
----
-
-*Learning, building, and growing at the intersection of finance and data analytics.*
+## Connect
+[LinkedIn](https://www.linkedin.com/in/tusharpaidlewar) · [GitHub Repositories](https://github.com/arnold0010?tab=repositories)
