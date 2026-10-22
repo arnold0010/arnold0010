@@ -1,35 +1,108 @@
-# Tushar Vijay Paidlewar
+# \# Tushar Vijay Paidlewar
 
-**Finance | Credit Risk | Data Analytics**
+# 
 
-I'm interested in how financial data can help explain risk, evaluate businesses, and support better financial decisions.
+# \*\*Finance | Credit Risk | Data Analytics\*\*
 
-I'm pursuing an MBA in Finance & Data Science and AI at Woxsen University, Hyderabad. This profile is where I share projects exploring the intersection of finance, analytics, and technology.
+# 
 
-## Areas of Interest
+# I'm interested in how financial data can help explain risk, evaluate businesses, and support better financial decisions.
 
-- Credit Risk Modelling & Credit Scoring
-- Financial Statement Analysis & Valuation
-- Investment & Mutual Fund Analytics
-- Banking, Fintech & Financial Markets
+# 
 
-## Featured Project
+# I'm pursuing an MBA in Finance \& Data Science and AI at Woxsen University, Hyderabad. This profile is where I share projects exploring the intersection of finance, analytics, and technology.
 
-**[Credit Risk Scorecard](https://github.com/arnold0010/credit-risk-scorecard)**
+# 
 
-An end-to-end credit risk modelling project exploring borrower default prediction, credit scoring, model explainability, and risk-based lending decisions.
+# \## Profile
 
-- **Dataset:** 150,000 borrowers
-- **Scorecard AUC:** 0.858
-- **XGBoost AUC:** 0.867
-- **Simulated bad-loan rate:** Reduced from 6.7% to 3.4% at the evaluated approval cutoff
+# 
 
-**Tools:** Python · XGBoost · SHAP · Streamlit
+# <table>
 
-## Background
+# &#x20; <tr>
 
-B.Tech in Electrical Engineering · Patent filing: EV Range Optimization System
+# &#x20;   <td width="43%" align="center" valign="top">
 
-## Connect
+# &#x20;     <img src="./avi-ascii.svg" alt="ASCII portrait" width="100%">
 
-[LinkedIn](https://www.linkedin.com/in/tusharpaidlewar) · [GitHub Repositories](https://github.com/arnold0010?tab=repositories)
+# &#x20;   </td>
+
+# &#x20;   <td width="57%" align="center" valign="top">
+
+# &#x20;     <img src="./info-card.svg" alt="Animated profile information card" width="100%">
+
+# &#x20;   </td>
+
+# &#x20; </tr>
+
+# </table>
+
+# 
+
+# \## GitHub Contributions
+
+# 
+
+# <p align="center">
+
+# &#x20; <img src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" width="100%">
+
+# </p>
+
+# 
+
+# \## Areas of Interest
+
+# 
+
+# \- Credit Risk Modelling \& Credit Scoring
+
+# \- Financial Statement Analysis \& Valuation
+
+# \- Investment \& Mutual Fund Analytics
+
+# \- Banking, Fintech \& Financial Markets
+
+# 
+
+# \## Featured Project
+
+# 
+
+# \### \[Credit Risk Scorecard](https://github.com/arnold0010/credit-risk-scorecard)
+
+# 
+
+# An end-to-end credit risk modelling project exploring borrower default prediction, credit scoring, model explainability, and risk-based lending decisions.
+
+# 
+
+# \- \*\*Dataset:\*\* 150,000 borrowers
+
+# \- \*\*Scorecard AUC:\*\* 0.858
+
+# \- \*\*XGBoost AUC:\*\* 0.867
+
+# \- \*\*Simulated bad-loan rate:\*\* Reduced from 6.7% to 3.4% at the evaluated approval cutoff
+
+# \- \*\*Tools:\*\* Python · XGBoost · SHAP · Streamlit
+
+# 
+
+# \## Background
+
+# 
+
+# B.Tech in Electrical Engineering · Patent filing: EV Range Optimization System
+
+# 
+
+# \## Connect
+
+# 
+
+# \[LinkedIn](https://www.linkedin.com/in/tusharpaidlewar) · \[GitHub Repositories](https://github.com/arnold0010?tab=repositories)
+
+# 
+

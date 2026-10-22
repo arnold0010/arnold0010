@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
-*.pyc
+*.py[cod]
+source-photo.jpg*
+source-prepped.png
+README-backup.md
+data/github-response-debug.html
