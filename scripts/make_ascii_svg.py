@@ -5,16 +5,18 @@ import cv2
 import numpy as np
 from PIL import Image, ImageOps, ImageEnhance
 
-# More tonal levels preserve facial features better.
-RAMP = "  ..'',::--==++**##%%@@"
+# Fewer blanks at the bright end, so skin tones still print something.
+RAMP = " .,:-=+*#%@@"
 COLS = 180
 
 FONT_SIZE = 10
 CELL_WIDTH = 6.0
 CELL_HEIGHT = 11.5
 
-TEXT_COLOR = "#444444"
+TEXT_COLOR = "#111111"   # near black (was #444444)
 BACKGROUND = "#ffffff"
+
+GAMMA = 1.35             # above 1 = darker, below 1 = lighter
 
 MARGIN_X = 30
 MARGIN_Y = 24
@@ -56,7 +58,7 @@ def make_ascii_svg(
 
     brightness = small.astype(np.float32) / 255.0
     brightness = np.clip((brightness - 0.02) / 0.96, 0.0, 1.0)
-    brightness = brightness ** 0.85
+    brightness = brightness ** GAMMA
 
     indices = np.rint((1.0 - brightness) * (len(RAMP) - 1)).astype(int)
     indices = np.clip(indices, 0, len(RAMP) - 1)
@@ -79,7 +81,7 @@ def make_ascii_svg(
         (
             f'<g transform="translate({MARGIN_X},{MARGIN_Y})" '
             "font-family=\"Consolas, 'Courier New', monospace\" "
-            f'font-size="{FONT_SIZE}" fill="{TEXT_COLOR}" '
+            f'font-size="{FONT_SIZE}" font-weight="bold" fill="{TEXT_COLOR}" '
             'style="white-space:pre" xml:space="preserve">'
         ),
     ]
