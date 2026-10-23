@@ -386,7 +386,7 @@
 <rect x="770" y="70" width="11" height="11" rx="2" fill="#161B22"><title>0 intensity level on 2026-10-20</title></rect>
 <rect x="770" y="84" width="11" height="11" rx="2" fill="#161B22"><title>0 intensity level on 2026-10-21</title></rect>
 <rect x="770" y="98" width="11" height="11" rx="2" fill="#39D353"><title>4 intensity level on 2026-10-22</title></rect>
-<rect x="770" y="112" width="11" height="11" rx="2" fill="#0D1117"><title>No calendar data for 2026-10-23</title></rect>
+<rect x="770" y="112" width="11" height="11" rx="2" fill="#161B22"><title>0 intensity level on 2026-10-23</title></rect>
 <rect x="770" y="126" width="11" height="11" rx="2" fill="#0D1117"><title>No calendar data for 2026-10-24</title></rect>
 <text x="605" y="161" font-family="Arial, sans-serif" font-size="10" fill="#8B949E">Less</text>
 <rect x="641" y="152" width="11" height="11" rx="2" fill="#161B22"/>
