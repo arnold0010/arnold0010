@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200">
+  <defs>
+    <style>
+      @keyframes fadeSlideIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes cursorBlink {
+        0%, 100% { opacity: 1; }
+        50%      { opacity: 0; }
+      }
+      .line-1 { opacity: 0; animation: fadeSlideIn 0.5s ease forwards 0.4s; }
+      .line-2 { opacity: 0; animation: fadeSlideIn 0.5s ease forwards 0.9s; }
+      .line-3 { opacity: 0; animation: fadeSlideIn 0.5s ease forwards 1.4s; }
+      .line-4 { opacity: 0; animation: fadeSlideIn 0.5s ease forwards 1.9s; }
+      .cursor  { animation: cursorBlink 1.1s step-end infinite; }
+    </style>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect width="840" height="200" rx="10" fill="#0d1117"/>
+  <rect width="840" height="200" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="840" height="36" rx="10" fill="#161b22"/>
+  <rect x="0" y="26" width="840" height="10" fill="#161b22"/>
+  <line x1="0" y1="36" x2="840" y2="36" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Window controls -->
+  <circle cx="22" cy="18" r="6" fill="#f85149"/>
+  <circle cx="42" cy="18" r="6" fill="#d29922"/>
+  <circle cx="62" cy="18" r="6" fill="#3fb950"/>
+
+  <!-- Title bar text -->
+  <text x="420" y="22" fill="#8b949e" font-family="'Courier New', Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="middle">tushar@finance ~ $</text>
+
+  <!-- Line 1: prompt -->
+  <g class="line-1">
+    <text x="28" y="68" font-family="'Courier New', Consolas, 'Liberation Mono', monospace" font-size="14">
+      <tspan fill="#58a6ff">$</tspan><tspan fill="#e6edf3"> whoami</tspan>
+    </text>
+  </g>
+
+  <!-- Line 2: name -->
+  <text class="line-2" x="28" y="104" fill="#e6edf3" font-family="'Courier New', Consolas, 'Liberation Mono', monospace" font-size="24" font-weight="bold">
+    Tushar Vijay Paidlewar
+  </text>
+
+  <!-- Line 3: subtitle -->
+  <text class="line-3" x="28" y="138" fill="#8b949e" font-family="'Courier New', Consolas, 'Liberation Mono', monospace" font-size="14">
+    MBA Finance &amp; Data Science &#x2022; Credit Risk &#x2022; Financial Analytics
+  </text>
+
+  <!-- Line 4: description -->
+  <text class="line-4" x="28" y="168" fill="#484f58" font-family="'Courier New', Consolas, 'Liberation Mono', monospace" font-size="12">
+    Building data-driven solutions at the intersection of finance &amp; technology
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="28" y="178" width="8" height="13" rx="1" fill="#58a6ff"/>
+</svg>
